@@ -1,6 +1,4 @@
 # creating clothing class to be inherited by individual items of clothing
-
-
 class Clothing:
     def __init__(self, name, color, size, description):
         self.name = name
